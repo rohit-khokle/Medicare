@@ -6,10 +6,6 @@ A swing-based application aimed towards integration of Health and Insurance ente
 
 Tedious insurance approvals and claims process for patients availing medical consultations.
 
-```bash
-pip install foobar
-```
-
 ## Application features 
 
 * To ensure Integration between Hospital and Insurance enterprises across the network to simplify consultations and test procedures.
@@ -17,6 +13,10 @@ pip install foobar
 * Streamline Insurance payments across networks
 
 * Patients can avail medical services at any network of their choice without hassle
+
+### Home Screen
+![ScreenShot](https://github.com/rohit-khokle/Medicare/blob/master/Medicare/snaps/1.PNG)
+
 
 
 ## Roles and Capabilities
@@ -36,9 +36,40 @@ pip install foobar
 ### Customer
 * Patient role – Can take doctor consultation and lab test appointments across the network
 
-## Model Diagram
+## Roles and Model Diagram
 
-![ScreenShot](https://imgur.com/oelych0)
+![ScreenShot](https://github.com/rohit-khokle/Medicare/blob/master/Medicare/snaps/Roles.png)
+
+![ScreenShot](https://github.com/rohit-khokle/Medicare/blob/master/Medicare/snaps/model.png)
+
+
+## Dashboards for the roles
+
+### Admin
+![ScreenShot](https://github.com/rohit-khokle/Medicare/blob/master/Medicare/snaps/admin_dashboard.PNG)
+
+### Customer booking doctor's appointments
+![ScreenShot](https://github.com/rohit-khokle/Medicare/blob/master/Medicare/snaps/customer_book_appointment.PNG)
+
+### Customer buying insurance
+
+![ScreenShot](https://github.com/rohit-khokle/Medicare/blob/master/Medicare/snaps/Customer_buy_insurance.PNG)
+
+### Messaging service throughout the applications between roles across network
+
+![ScreenShot](https://github.com/rohit-khokle/Medicare/blob/master/Medicare/snaps/customer_messaging.PNG)
+
+
+### Doctor Dashboard
+
+![ScreenShot](https://github.com/rohit-khokle/Medicare/blob/master/Medicare/snaps/doc_dashboards.PNG)
+
+
+### Insurance Agent Dashboard
+
+![ScreenShot](https://github.com/rohit-khokle/Medicare/blob/master/Medicare/snaps/claims_dashboard.PNG)
+
+![ScreenShot](https://github.com/rohit-khokle/Medicare/blob/master/Medicare/snaps/model.png)
 
 
 
