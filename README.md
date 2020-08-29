@@ -69,8 +69,6 @@ Tedious insurance approvals and claims process for patients availing medical con
 
 ![ScreenShot](https://github.com/rohit-khokle/Medicare/blob/master/Medicare/snaps/claims_dashboard.PNG)
 
-![ScreenShot](https://github.com/rohit-khokle/Medicare/blob/master/Medicare/snaps/model.png)
-
 
 
 
